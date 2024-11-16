@@ -1,4 +1,7 @@
 ## Hi there 👋
+Welcome to Ziqing's website!
+<p>I am a PhD candidate in applied math and computational science at the University of Iowa. <br>I am interested in robust/safe reinforcement learning.</p>
+<a href="https://math.uiowa.edu/people/ziqing-lu">This is my official homepage.</a>
 
 <!--
 **zziqinglu/zziqinglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
